@@ -1,0 +1,149 @@
+{
+    "Anderson .Paak": {
+        "image": "https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496",
+        "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa",
+        "recommendations": {
+            "Los Fabulosos Cadillacs": {
+                "image": "https://i.scdn.co/image/fa61694bc1b21f212fef31d4f6b89e1d0b9ff7fa",
+                "score": 0.7754612579901532,
+                "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+            },
+            "Lava La Rue": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb472a77800a18ccafb0010a3b",
+                "score": 0.758947637008996,
+                "spotify": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+            },
+            "Remi Wolf": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb0d1e34ba86db34492fa83df8",
+                "score": 0.6947376369201126,
+                "spotify": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+            }
+        }
+    },
+    "Kendrick Lamar": {
+        "image": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+        "recommendations": {
+            "Kaytranada": {
+                "image": "https://i.scdn.co/image/ab6761610000e5ebca674f416a581a1b19f8150a",
+                "score": 0.7613235352625985,
+                "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+            },
+            "$uicideboy$": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb7c0ac3d8381968ae99ce6736",
+                "score": 0.7524844152087901,
+                "spotify": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+            },
+            "Metro Boomin": {
+                "image": "https://i.scdn.co/image/ab6761610000e5ebdf9a1555f53a20087b8c5a5c",
+                "score": 0.743774529305787,
+                "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+            }
+        }
+    },
+    "YG": {
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcca4dcb3ab73e951f6d226b9",
+        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY",
+        "recommendations": {
+            "Doechii": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb66fe616f86e6db57065785d7",
+                "score": 0.7906057087776701,
+                "spotify": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+            },
+            "GloRilla": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb1ccbb59322c0242380ed4c2d",
+                "score": 0.7797595011110106,
+                "spotify": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+            },
+            "EARTHGANG": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb4a703b05c4ae3fafeaec6be6",
+                "score": 0.7764505589207807,
+                "spotify": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+            }
+        }
+    },
+    "Khia": {
+        "image": "https://i.scdn.co/image/ab6761610000e5eb1b833fd95b5771369ae57a61",
+        "spotify": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60",
+        "recommendations": {
+            "Flo Milli": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb5fddb25066836b4399d6c683",
+                "score": 0.8794985178500694,
+                "spotify": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+            },
+            "Latto": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb149677e9b0d9ef7b229499d9",
+                "score": 0.8304920507047543,
+                "spotify": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+            },
+            "Chromeo": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb78d6371737e32317ccfbc570",
+                "score": 0.800992171924107,
+                "spotify": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+            }
+        }
+    },
+    "The Lady Of Rage": {
+        "image": "https://i.scdn.co/image/150c178ec9f4f20d342b9e9559df545b287e323a",
+        "spotify": "https://open.spotify.com/artist/5CxwOBCoGSvWxfDgNoa1Nv",
+        "recommendations": {
+            "Pusha T": {
+                "image": "https://i.scdn.co/image/ab6761610000e5ebc5b88a3924d8318f25f20594",
+                "score": 0.8385699729521464,
+                "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "Shenseea": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb62d9e066db506ccdc1d485e6",
+                "score": 0.8177846120150495,
+                "spotify": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+            },
+            "SG Lewis": {
+                "image": "https://i.scdn.co/image/ab6761610000e5ebe9c31464772fd2987848efe3",
+                "score": 0.809301347365626,
+                "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+            }
+        }
+    },
+    "Snoop Dogg": {
+        "image": "https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4",
+        "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG",
+        "recommendations": {
+            "SG Lewis": {
+                "image": "https://i.scdn.co/image/ab6761610000e5ebe9c31464772fd2987848efe3",
+                "score": 0.8910144328945495,
+                "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+            },
+            "Latto": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb149677e9b0d9ef7b229499d9",
+                "score": 0.8876194190544261,
+                "spotify": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+            },
+            "Shenseea": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb62d9e066db506ccdc1d485e6",
+                "score": 0.8803625025689105,
+                "spotify": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+            }
+        }
+    },
+    "Eminem": {
+        "image": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+        "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR",
+        "recommendations": {
+            "SG Lewis": {
+                "image": "https://i.scdn.co/image/ab6761610000e5ebe9c31464772fd2987848efe3",
+                "score": 0.8535485035516625,
+                "spotify": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+            },
+            "Pusha T": {
+                "image": "https://i.scdn.co/image/ab6761610000e5ebc5b88a3924d8318f25f20594",
+                "score": 0.8163656061496148,
+                "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "Latto": {
+                "image": "https://i.scdn.co/image/ab6761610000e5eb149677e9b0d9ef7b229499d9",
+                "score": 0.748834969738661,
+                "spotify": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+            }
+        }
+    }
+}

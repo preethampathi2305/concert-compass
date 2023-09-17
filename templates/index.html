@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<!-- <head>
+    <title>Enter artist Name</title>
+</head> -->
+<body>
+    <h1>Select your playlist to recommend from:</h1>
+    <form action="/name" method="post">
+        <!-- <a>playlist uri - <input type="text" name="playlist_uri" /></a> -->
+        <select name="playlist_uri" class="Input">
+            {% for o in data %}
+            <option value="{{ o.uri }}">{{ o.name }}</option>
+            {% endfor %}
+        </select>
+        <!-- <a>artists line up - <input type="text" name="artists_line_up" /></a><br> -->
+        <!-- <a>name for suggesting <input type="text" name="name" /></a><br> -->
+        <input type="submit" value="Submit" />
+    </form>
+</body>
+</html>
